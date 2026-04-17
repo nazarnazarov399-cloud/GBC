@@ -1,0 +1,1422 @@
+[
+  {
+    "firstName": "Айгуль",
+    "lastName": "Касымова",
+    "phone": "+77001234501",
+    "email": "aigul.kasymova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Корректирующее бельё Nova Classic",
+        "quantity": 1,
+        "initialPrice": 15000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Абая 150, кв 12"
+      }
+    },
+    "customFields": {
+      "utm_source": "instagram"
+    }
+  },
+  {
+    "firstName": "Дина",
+    "lastName": "Жуматова",
+    "phone": "+77012345602",
+    "email": "dina.zhumatova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающий комбидресс Nova Slim",
+        "quantity": 1,
+        "initialPrice": 28000
+      },
+      {
+        "productName": "Корректирующие шорты Nova Shape",
+        "quantity": 1,
+        "initialPrice": 12000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "мкр. Самал-2, д. 44, кв 78"
+      }
+    },
+    "customFields": {
+      "utm_source": "google"
+    }
+  },
+  {
+    "firstName": "Нургуль",
+    "lastName": "Ахметова",
+    "phone": "+77023456703",
+    "email": "nurgul.akhmetova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Бюстье корректирующее Nova Lift",
+        "quantity": 1,
+        "initialPrice": 22000
+      },
+      {
+        "productName": "Утягивающие леггинсы Nova Fit",
+        "quantity": 2,
+        "initialPrice": 18000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Астана",
+        "text": "пр. Туран 45, кв 3"
+      }
+    },
+    "customFields": {
+      "utm_source": "instagram"
+    }
+  },
+  {
+    "firstName": "Малика",
+    "lastName": "Сейткали",
+    "phone": "+77034567804",
+    "email": "malika.seitkali@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Корректирующее бельё Nova Classic",
+        "quantity": 3,
+        "initialPrice": 15000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Сейфуллина 89, кв 55"
+      }
+    },
+    "customFields": {
+      "utm_source": "tiktok"
+    }
+  },
+  {
+    "firstName": "Зарина",
+    "lastName": "Байжанова",
+    "phone": "+77045678905",
+    "email": "zarina.baijanova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающий комбидресс Nova Slim",
+        "quantity": 2,
+        "initialPrice": 28000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Достык 132, кв 201"
+      }
+    },
+    "customFields": {
+      "utm_source": "instagram"
+    }
+  },
+  {
+    "firstName": "Ирина",
+    "lastName": "Соколова",
+    "phone": "+77056789006",
+    "email": "irina.sokolova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Корректирующие шорты Nova Shape",
+        "quantity": 1,
+        "initialPrice": 12000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Розыбакиева 201, кв 14"
+      }
+    },
+    "customFields": {
+      "utm_source": "direct"
+    }
+  },
+  {
+    "firstName": "Светлана",
+    "lastName": "Морозова",
+    "phone": "+77067890107",
+    "email": "svetlana.morozova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Бюстье корректирующее Nova Lift",
+        "quantity": 1,
+        "initialPrice": 22000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Астана",
+        "text": "ул. Кенесары 67, кв 9"
+      }
+    },
+    "customFields": {
+      "utm_source": "google"
+    }
+  },
+  {
+    "firstName": "Гульнара",
+    "lastName": "Кенжебаева",
+    "phone": "+77078901208",
+    "email": "gulnara.kenjebaeva@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающие леггинсы Nova Fit",
+        "quantity": 1,
+        "initialPrice": 18000
+      },
+      {
+        "productName": "Корректирующие шорты Nova Shape",
+        "quantity": 2,
+        "initialPrice": 12000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "мкр. Аlatau, д. 7, кв 33"
+      }
+    },
+    "customFields": {
+      "utm_source": "referral"
+    }
+  },
+  {
+    "firstName": "Анара",
+    "lastName": "Мухамедова",
+    "phone": "+77089012309",
+    "email": "anara.mukhamedova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Корректирующее бельё Nova Classic",
+        "quantity": 1,
+        "initialPrice": 15000
+      },
+      {
+        "productName": "Утягивающий комбидресс Nova Slim",
+        "quantity": 1,
+        "initialPrice": 28000
+      },
+      {
+        "productName": "Корректирующие шорты Nova Shape",
+        "quantity": 1,
+        "initialPrice": 12000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Навои 50, кв 17"
+      }
+    },
+    "customFields": {
+      "utm_source": "instagram"
+    }
+  },
+  {
+    "firstName": "Камила",
+    "lastName": "Досова",
+    "phone": "+77090123410",
+    "email": "kamila.dosova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающее боди Nova Body",
+        "quantity": 1,
+        "initialPrice": 35000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Манаса 23, кв 5"
+      }
+    },
+    "customFields": {
+      "utm_source": "google"
+    }
+  },
+  {
+    "firstName": "Жанар",
+    "lastName": "Алиева",
+    "phone": "+77001234511",
+    "email": "zhanar.alieva@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Бюстье корректирующее Nova Lift",
+        "quantity": 2,
+        "initialPrice": 22000
+      },
+      {
+        "productName": "Утягивающие леггинсы Nova Fit",
+        "quantity": 1,
+        "initialPrice": 18000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "пр. Аль-Фараби 77, кв 102"
+      }
+    },
+    "customFields": {
+      "utm_source": "instagram"
+    }
+  },
+  {
+    "firstName": "Самал",
+    "lastName": "Нурланова",
+    "phone": "+77012345612",
+    "email": "samal.nurlanova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Корректирующие шорты Nova Shape",
+        "quantity": 1,
+        "initialPrice": 12000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Жандосова 58, кв 21"
+      }
+    },
+    "customFields": {
+      "utm_source": "direct"
+    }
+  },
+  {
+    "firstName": "Назгуль",
+    "lastName": "Бекова",
+    "phone": "+77023456713",
+    "email": "nazgul.bekova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающее боди Nova Body",
+        "quantity": 1,
+        "initialPrice": 35000
+      },
+      {
+        "productName": "Утягивающий комбидресс Nova Slim",
+        "quantity": 1,
+        "initialPrice": 28000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Астана",
+        "text": "ул. Бейбитшилик 34, кв 44"
+      }
+    },
+    "customFields": {
+      "utm_source": "google"
+    }
+  },
+  {
+    "firstName": "Татьяна",
+    "lastName": "Петрова",
+    "phone": "+77034567814",
+    "email": "tatyana.petrova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Корректирующее бельё Nova Classic",
+        "quantity": 2,
+        "initialPrice": 15000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Тимирязева 12, кв 8"
+      }
+    },
+    "customFields": {
+      "utm_source": "referral"
+    }
+  },
+  {
+    "firstName": "Алия",
+    "lastName": "Сарсенова",
+    "phone": "+77045678915",
+    "email": "aliya.sarsenova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающие леггинсы Nova Fit",
+        "quantity": 2,
+        "initialPrice": 18000
+      },
+      {
+        "productName": "Бюстье корректирующее Nova Lift",
+        "quantity": 1,
+        "initialPrice": 22000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "мкр. Мамыр-3, д. 15, кв 67"
+      }
+    },
+    "customFields": {
+      "utm_source": "instagram"
+    }
+  },
+  {
+    "firstName": "Венера",
+    "lastName": "Исмаилова",
+    "phone": "+77056789016",
+    "email": "venera.ismailova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающий комбидресс Nova Slim",
+        "quantity": 1,
+        "initialPrice": 28000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Шымкент",
+        "text": "пр. Республики 44, кв 19"
+      }
+    },
+    "customFields": {
+      "utm_source": "tiktok"
+    }
+  },
+  {
+    "firstName": "Меруерт",
+    "lastName": "Жакупова",
+    "phone": "+77067890117",
+    "email": "meruyert.zhakupova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающее боди Nova Body",
+        "quantity": 2,
+        "initialPrice": 35000
+      },
+      {
+        "productName": "Корректирующее бельё Nova Classic",
+        "quantity": 1,
+        "initialPrice": 15000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Богенбай батыра 130, кв 4"
+      }
+    },
+    "customFields": {
+      "utm_source": "instagram"
+    }
+  },
+  {
+    "firstName": "Ботагоз",
+    "lastName": "Оспанова",
+    "phone": "+77078901218",
+    "email": "botagoz.ospanova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Корректирующие шорты Nova Shape",
+        "quantity": 3,
+        "initialPrice": 12000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Панфилова 99, кв 31"
+      }
+    },
+    "customFields": {
+      "utm_source": "google"
+    }
+  },
+  {
+    "firstName": "Оксана",
+    "lastName": "Белова",
+    "phone": "+77089012319",
+    "email": "oksana.belova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Бюстье корректирующее Nova Lift",
+        "quantity": 1,
+        "initialPrice": 22000
+      },
+      {
+        "productName": "Утягивающий комбидресс Nova Slim",
+        "quantity": 1,
+        "initialPrice": 28000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Астана",
+        "text": "ул. Сарыарка 11, кв 56"
+      }
+    },
+    "customFields": {
+      "utm_source": "direct"
+    }
+  },
+  {
+    "firstName": "Гульмира",
+    "lastName": "Токтарова",
+    "phone": "+77090123420",
+    "email": "gulmira.toktarova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающие леггинсы Nova Fit",
+        "quantity": 3,
+        "initialPrice": 18000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "мкр. Калкаман, д. 22, кв 88"
+      }
+    },
+    "customFields": {
+      "utm_source": "instagram"
+    }
+  },
+  {
+    "firstName": "Диана",
+    "lastName": "Ергалиева",
+    "phone": "+77001234521",
+    "email": "diana.ergalieva@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающее боди Nova Body",
+        "quantity": 1,
+        "initialPrice": 35000
+      },
+      {
+        "productName": "Корректирующие шорты Nova Shape",
+        "quantity": 1,
+        "initialPrice": 12000
+      },
+      {
+        "productName": "Утягивающий комбидресс Nova Slim",
+        "quantity": 1,
+        "initialPrice": 28000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "пр. Байтурсынова 68, кв 13"
+      }
+    },
+    "customFields": {
+      "utm_source": "referral"
+    }
+  },
+  {
+    "firstName": "Эльмира",
+    "lastName": "Садуакасова",
+    "phone": "+77012345622",
+    "email": "elmira.saduakasova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Корректирующее бельё Nova Classic",
+        "quantity": 1,
+        "initialPrice": 15000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Гагарина 156, кв 7"
+      }
+    },
+    "customFields": {
+      "utm_source": "google"
+    }
+  },
+  {
+    "firstName": "Карина",
+    "lastName": "Демченко",
+    "phone": "+77023456723",
+    "email": "karina.demchenko@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Бюстье корректирующее Nova Lift",
+        "quantity": 1,
+        "initialPrice": 22000
+      },
+      {
+        "productName": "Корректирующие шорты Nova Shape",
+        "quantity": 2,
+        "initialPrice": 12000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Маресьева 5, кв 42"
+      }
+    },
+    "customFields": {
+      "utm_source": "instagram"
+    }
+  },
+  {
+    "firstName": "Акмарал",
+    "lastName": "Нуркасымова",
+    "phone": "+77034567824",
+    "email": "akmaral.nurkasymova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающие леггинсы Nova Fit",
+        "quantity": 2,
+        "initialPrice": 18000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Толе би 220, кв 65"
+      }
+    },
+    "customFields": {
+      "utm_source": "tiktok"
+    }
+  },
+  {
+    "firstName": "Лаура",
+    "lastName": "Амангельдина",
+    "phone": "+77045678925",
+    "email": "laura.amangeldina@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающее боди Nova Body",
+        "quantity": 1,
+        "initialPrice": 35000
+      },
+      {
+        "productName": "Бюстье корректирующее Nova Lift",
+        "quantity": 1,
+        "initialPrice": 22000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "мкр. Орбита-2, д. 8, кв 29"
+      }
+    },
+    "customFields": {
+      "utm_source": "instagram"
+    }
+  },
+  {
+    "firstName": "Перизат",
+    "lastName": "Шарипова",
+    "phone": "+77056789026",
+    "email": "perizat.sharipova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Корректирующее бельё Nova Classic",
+        "quantity": 1,
+        "initialPrice": 15000
+      },
+      {
+        "productName": "Корректирующие шорты Nova Shape",
+        "quantity": 1,
+        "initialPrice": 12000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Саина 24, кв 90"
+      }
+    },
+    "customFields": {
+      "utm_source": "google"
+    }
+  },
+  {
+    "firstName": "Жанна",
+    "lastName": "Кузнецова",
+    "phone": "+77067890127",
+    "email": "zhanna.kuznetsova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающий комбидресс Nova Slim",
+        "quantity": 2,
+        "initialPrice": 28000
+      },
+      {
+        "productName": "Утягивающие леггинсы Nova Fit",
+        "quantity": 1,
+        "initialPrice": 18000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Астана",
+        "text": "мкр. Нурсат, д. 3, кв 111"
+      }
+    },
+    "customFields": {
+      "utm_source": "instagram"
+    }
+  },
+  {
+    "firstName": "Асель",
+    "lastName": "Кожахметова",
+    "phone": "+77078901228",
+    "email": "asel.kozhakhmetova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Бюстье корректирующее Nova Lift",
+        "quantity": 3,
+        "initialPrice": 22000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Муратбаева 88, кв 16"
+      }
+    },
+    "customFields": {
+      "utm_source": "referral"
+    }
+  },
+  {
+    "firstName": "Рита",
+    "lastName": "Волкова",
+    "phone": "+77089012329",
+    "email": "rita.volkova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Корректирующие шорты Nova Shape",
+        "quantity": 1,
+        "initialPrice": 12000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Шолохова 3, кв 24"
+      }
+    },
+    "customFields": {
+      "utm_source": "direct"
+    }
+  },
+  {
+    "firstName": "Сабина",
+    "lastName": "Асанова",
+    "phone": "+77090123430",
+    "email": "sabina.asanova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающее боди Nova Body",
+        "quantity": 2,
+        "initialPrice": 35000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Брусиловского 159, кв 38"
+      }
+    },
+    "customFields": {
+      "utm_source": "instagram"
+    }
+  },
+  {
+    "firstName": "Мадина",
+    "lastName": "Рахимбекова",
+    "phone": "+77001234531",
+    "email": "madina.rakhimbekova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающий комбидресс Nova Slim",
+        "quantity": 1,
+        "initialPrice": 28000
+      },
+      {
+        "productName": "Утягивающие леггинсы Nova Fit",
+        "quantity": 1,
+        "initialPrice": 18000
+      },
+      {
+        "productName": "Корректирующее бельё Nova Classic",
+        "quantity": 1,
+        "initialPrice": 15000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "пр. Рыскулова 14, кв 77"
+      }
+    },
+    "customFields": {
+      "utm_source": "google"
+    }
+  },
+  {
+    "firstName": "Гульсим",
+    "lastName": "Байкенова",
+    "phone": "+77012345632",
+    "email": "gulsim.baikenova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Корректирующие шорты Nova Shape",
+        "quantity": 2,
+        "initialPrice": 12000
+      },
+      {
+        "productName": "Бюстье корректирующее Nova Lift",
+        "quantity": 1,
+        "initialPrice": 22000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Кунаева 45, кв 51"
+      }
+    },
+    "customFields": {
+      "utm_source": "instagram"
+    }
+  },
+  {
+    "firstName": "Надежда",
+    "lastName": "Захарова",
+    "phone": "+77023456733",
+    "email": "nadezhda.zakharova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающее боди Nova Body",
+        "quantity": 1,
+        "initialPrice": 35000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Фурманова 111, кв 6"
+      }
+    },
+    "customFields": {
+      "utm_source": "direct"
+    }
+  },
+  {
+    "firstName": "Айнур",
+    "lastName": "Мусаева",
+    "phone": "+77034567834",
+    "email": "ainur.musaeva@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Корректирующее бельё Nova Classic",
+        "quantity": 1,
+        "initialPrice": 15000
+      },
+      {
+        "productName": "Утягивающий комбидресс Nova Slim",
+        "quantity": 2,
+        "initialPrice": 28000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "мкр. Думан-2, д. 18, кв 93"
+      }
+    },
+    "customFields": {
+      "utm_source": "tiktok"
+    }
+  },
+  {
+    "firstName": "Шолпан",
+    "lastName": "Нурмагамбетова",
+    "phone": "+77045678935",
+    "email": "sholpan.nurmagambetova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающие леггинсы Nova Fit",
+        "quantity": 1,
+        "initialPrice": 18000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Шымкент",
+        "text": "ул. Байдибек би 77, кв 22"
+      }
+    },
+    "customFields": {
+      "utm_source": "google"
+    }
+  },
+  {
+    "firstName": "Арина",
+    "lastName": "Новикова",
+    "phone": "+77056789036",
+    "email": "arina.novikova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Бюстье корректирующее Nova Lift",
+        "quantity": 2,
+        "initialPrice": 22000
+      },
+      {
+        "productName": "Утягивающее боди Nova Body",
+        "quantity": 1,
+        "initialPrice": 35000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Желтоксан 120, кв 47"
+      }
+    },
+    "customFields": {
+      "utm_source": "instagram"
+    }
+  },
+  {
+    "firstName": "Зульфия",
+    "lastName": "Тулеукова",
+    "phone": "+77067890137",
+    "email": "zulfiya.tuleukhova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Корректирующие шорты Nova Shape",
+        "quantity": 1,
+        "initialPrice": 12000
+      },
+      {
+        "productName": "Утягивающий комбидресс Nova Slim",
+        "quantity": 1,
+        "initialPrice": 28000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Ленина 67, кв 3"
+      }
+    },
+    "customFields": {
+      "utm_source": "referral"
+    }
+  },
+  {
+    "firstName": "Айдана",
+    "lastName": "Смагулова",
+    "phone": "+77078901238",
+    "email": "aidana.smagulova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающее боди Nova Body",
+        "quantity": 1,
+        "initialPrice": 35000
+      },
+      {
+        "productName": "Утягивающие леггинсы Nova Fit",
+        "quantity": 1,
+        "initialPrice": 18000
+      },
+      {
+        "productName": "Бюстье корректирующее Nova Lift",
+        "quantity": 1,
+        "initialPrice": 22000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "пр. Сейфуллина 200, кв 15"
+      }
+    },
+    "customFields": {
+      "utm_source": "instagram"
+    }
+  },
+  {
+    "firstName": "Маргарита",
+    "lastName": "Ковалёва",
+    "phone": "+77089012339",
+    "email": "margarita.kovaleva@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Корректирующее бельё Nova Classic",
+        "quantity": 2,
+        "initialPrice": 15000
+      },
+      {
+        "productName": "Корректирующие шорты Nova Shape",
+        "quantity": 1,
+        "initialPrice": 12000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Астана",
+        "text": "ул. Жибек жолы 45, кв 60"
+      }
+    },
+    "customFields": {
+      "utm_source": "google"
+    }
+  },
+  {
+    "firstName": "Толкын",
+    "lastName": "Жумагулова",
+    "phone": "+77090123440",
+    "email": "tolkyn.zhumagulova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающий комбидресс Nova Slim",
+        "quantity": 3,
+        "initialPrice": 28000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Утепова 10, кв 27"
+      }
+    },
+    "customFields": {
+      "utm_source": "instagram"
+    }
+  },
+  {
+    "firstName": "Тамара",
+    "lastName": "Горбунова",
+    "phone": "+77001234541",
+    "email": "tamara.gorbunova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающие леггинсы Nova Fit",
+        "quantity": 1,
+        "initialPrice": 18000
+      },
+      {
+        "productName": "Утягивающее боди Nova Body",
+        "quantity": 1,
+        "initialPrice": 35000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "мкр. Жетысу-1, д. 6, кв 71"
+      }
+    },
+    "customFields": {
+      "utm_source": "direct"
+    }
+  },
+  {
+    "firstName": "Раушан",
+    "lastName": "Абдрахманова",
+    "phone": "+77012345642",
+    "email": "raushan.abdrakhmanova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Бюстье корректирующее Nova Lift",
+        "quantity": 1,
+        "initialPrice": 22000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Аль-Фараби 19, кв 84"
+      }
+    },
+    "customFields": {
+      "utm_source": "instagram"
+    }
+  },
+  {
+    "firstName": "Инкар",
+    "lastName": "Байменова",
+    "phone": "+77023456743",
+    "email": "inkar.baimenova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Корректирующее бельё Nova Classic",
+        "quantity": 1,
+        "initialPrice": 15000
+      },
+      {
+        "productName": "Утягивающий комбидресс Nova Slim",
+        "quantity": 1,
+        "initialPrice": 28000
+      },
+      {
+        "productName": "Утягивающие леггинсы Nova Fit",
+        "quantity": 2,
+        "initialPrice": 18000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Сатпаева 39, кв 11"
+      }
+    },
+    "customFields": {
+      "utm_source": "google"
+    }
+  },
+  {
+    "firstName": "Эльвира",
+    "lastName": "Кариева",
+    "phone": "+77034567844",
+    "email": "elvira.karieva@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Корректирующие шорты Nova Shape",
+        "quantity": 2,
+        "initialPrice": 12000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Актау",
+        "text": "мкр. 17, д. 52, кв 8"
+      }
+    },
+    "customFields": {
+      "utm_source": "tiktok"
+    }
+  },
+  {
+    "firstName": "Юлия",
+    "lastName": "Симонова",
+    "phone": "+77045678945",
+    "email": "yulia.simonova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающее боди Nova Body",
+        "quantity": 1,
+        "initialPrice": 35000
+      },
+      {
+        "productName": "Бюстье корректирующее Nova Lift",
+        "quantity": 1,
+        "initialPrice": 22000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Момышулы 78, кв 36"
+      }
+    },
+    "customFields": {
+      "utm_source": "referral"
+    }
+  },
+  {
+    "firstName": "Асем",
+    "lastName": "Калиева",
+    "phone": "+77056789046",
+    "email": "asem.kalieva@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающий комбидресс Nova Slim",
+        "quantity": 1,
+        "initialPrice": 28000
+      },
+      {
+        "productName": "Корректирующие шорты Nova Shape",
+        "quantity": 1,
+        "initialPrice": 12000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "пр. Гагарина 203, кв 52"
+      }
+    },
+    "customFields": {
+      "utm_source": "instagram"
+    }
+  },
+  {
+    "firstName": "Бибигуль",
+    "lastName": "Ибрагимова",
+    "phone": "+77067890147",
+    "email": "bibigul.ibragimova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Корректирующее бельё Nova Classic",
+        "quantity": 2,
+        "initialPrice": 15000
+      },
+      {
+        "productName": "Утягивающие леггинсы Nova Fit",
+        "quantity": 2,
+        "initialPrice": 18000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Куйши Дина 5, кв 18"
+      }
+    },
+    "customFields": {
+      "utm_source": "google"
+    }
+  },
+  {
+    "firstName": "Виктория",
+    "lastName": "Романова",
+    "phone": "+77078901248",
+    "email": "viktoriya.romanova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающее боди Nova Body",
+        "quantity": 3,
+        "initialPrice": 35000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Ходжанова 76, кв 62"
+      }
+    },
+    "customFields": {
+      "utm_source": "instagram"
+    }
+  },
+  {
+    "firstName": "Ажар",
+    "lastName": "Абенова",
+    "phone": "+77089012349",
+    "email": "azhar.abenova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Бюстье корректирующее Nova Lift",
+        "quantity": 1,
+        "initialPrice": 22000
+      },
+      {
+        "productName": "Корректирующее бельё Nova Classic",
+        "quantity": 1,
+        "initialPrice": 15000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "мкр. Аксай-4, д. 30, кв 45"
+      }
+    },
+    "customFields": {
+      "utm_source": "direct"
+    }
+  },
+  {
+    "firstName": "Феруза",
+    "lastName": "Юсупова",
+    "phone": "+77090123450",
+    "email": "feruza.yusupova@example.com",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "status": "new",
+    "items": [
+      {
+        "productName": "Утягивающий комбидресс Nova Slim",
+        "quantity": 1,
+        "initialPrice": 28000
+      },
+      {
+        "productName": "Утягивающее боди Nova Body",
+        "quantity": 1,
+        "initialPrice": 35000
+      },
+      {
+        "productName": "Утягивающие леггинсы Nova Fit",
+        "quantity": 1,
+        "initialPrice": 18000
+      }
+    ],
+    "delivery": {
+      "address": {
+        "city": "Алматы",
+        "text": "ул. Мухамедханова 8, кв 73"
+      }
+    },
+    "customFields": {
+      "utm_source": "referral"
+    }
+  }
+]
